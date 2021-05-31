@@ -6,7 +6,7 @@ title: Meher Shashwat Nigam
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Researcher in Computer Vision and Robotics  
+role: Undergraduate Researcher, Computer Vision and Robotics  
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,16 @@ organizations:
   url: https://www.iiit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, Quantitative Finance and Blockchain.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Monocular Layout Estimation and 3D Reconstruction
+- Robotic Perception
+- Simulation to Real Transfer
+- Quantitative Finance
+- Blockchain and Cryptocurrencies
 
 # Education to show in About widget
 education:
@@ -41,7 +44,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ShashwatNigam99
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=TYD3BBQAAAAJ
 - icon: github
   icon_pack: fab
@@ -53,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mehershashwat@gmail.com"
@@ -63,9 +66,9 @@ email: "mehershashwat@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a CS graduate from <a href="https://www.iiit.ac.in/" target="_blank" >International Institute of Information Technology, Hyderabad (IIIT-H)</a>. 
 
-Graduating in 2021, looking for full-time opportunities.
-Currently a senior at IIIT Hyderabad, working as an undergraduate research student at the computer vision lab CVIT, IIIT Hyderabad, in collaboration with Robotics Research Center RRC, IIIT Hyderabad.
+I have been working as a research student at the <a href="https://robotics.iiit.ac.in/" target="_blank" >Robotics Research Center (RRC, IIIT Hyderabad)</a> under <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank" >Dr. Madhav Krishna</a> in collaboration with <a href="https://cvit.iiit.ac.in/" target="_blank" > Center for Visual Information Technology (CVIT, IIIT Hyderabad)</a>, advised by <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ" target="_blank">Dr. Ravi Kiran Sarvadevabhatla</a>.
 
 Interested in machine learning, deep learning with a special focus on computer vision. Experience with finance and quantitative analysis. Currently exploring blockchain and cryptocurrencies!
 
