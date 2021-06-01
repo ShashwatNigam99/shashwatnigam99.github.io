@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-04-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +23,17 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *
+The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences((ISPRS Archives), 2021*
+publication_short: In *ISPRS, 2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the growing interest in deep learning algorithms and computational design in the architectural field, the need for large, accessible and diverse architectural datasets increases. We decided to tackle this problem by constructing a field-specific synthetic data generation pipeline that generates an arbitrary amount of 3D data along with the associated 2D and 3D annotations. The variety of annotations, the flexibility to customize the generated building and dataset parameters make this framework suitable for multiple deep dearning tasks, including geometric deep learning that requires direct 3D supervision. Creating our building data generation pipeline we leveraged the experts’ architectural knowledge in order to construct a framework that would be modular, extendable and would provide a sufficient amount of class-balanced data samples. Moreover, we purposefully involve the researcher in the dataset customization allowing the introduction of additional building components, material textures, building classes, number and type of annotations as well as the number of views per 3D model sample. In this way, the framework would satisfy different research requirements and would be adaptable to a large variety of tasks. All code and data is made publicly available.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: With the growing interest in deep learning algorithms and computational design in the architectural field, the need for large, accessible and diverse architectural datasets increases. We decided to tackle this problem by constructing a field-specific synthetic data generation pipeline that generates an arbitrary amount of 3D data along with the associated 2D and 3D annotations.
 
 tags: []
 
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Synthetic Data Generation Pipeline outputs'
   focal_point: ""
   preview_only: false
 
@@ -65,23 +66,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
