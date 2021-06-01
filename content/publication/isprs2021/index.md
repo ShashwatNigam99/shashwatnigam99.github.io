@@ -13,10 +13,7 @@ authors:
 - Dominik L. Michels
 
 # Author notes (optional)
-author_notes:
-- 
-- "Equal contribution"
-- "Equal contribution"
+author_notes: []
 
 date: "2021-04-26T00:00:00Z"
 doi: ""
