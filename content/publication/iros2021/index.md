@@ -40,18 +40,18 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Project Page
+  url: https://avinash2468.github.io/RackLay/
 
+# url_project: 'https://avinash2468.github.io/RackLay/'
 url_pdf: 'https://arxiv.org/abs/2103.09174'
 url_code: 'https://github.com/Avinash2468/RackLay'
 url_dataset: 'https://anuragsahu.github.io/WareSynth/'
 url_poster: ''
-url_projectzz: 'https://avinash2468.github.io/RackLay/'
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/1hdl3W-MlXo'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
