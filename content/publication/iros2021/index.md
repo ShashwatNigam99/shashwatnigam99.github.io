@@ -6,10 +6,15 @@ title: "RackLay: Multi-Layer Layout Estimation for Warehouse Racks"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
-
+- Avinash Prabhu
+- Anurag Sahu
+- Tanvi Karandikar
+- Ravi Kiran Sarvadevabhatla
+- Madhava Krishna
+- 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
@@ -26,8 +31,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Intelligent Robots and Systems*
-publication_short: In *IROS*
+publication: In *International Conference on Intelligent Robots and Systems, 2021*
+publication_short: In *IROS,2021*
 
 abstract: Given a monocular colour image of a warehouse rack, we aim to predict the bird's-eye view layout for each shelf in the rack, which we term as multi-layer layout prediction. To this end, we present RackLay, a deep neural network for real-time shelf layout estimation from a single image. Unlike previous layout estimation methods, which provide a single layout for the dominant ground plane alone, RackLay estimates the top-view and front-view layout for each shelf in the considered rack populated with objects. RackLay's architecture and its variants are versatile and estimate accurate layouts for diverse scenes characterized by varying number of visible shelves in an image, large range in shelf occupancy factor and varied background clutter. Given the extreme paucity of datasets in this space and the difficulty involved in acquiring real data from warehouses, we additionally release a flexible synthetic dataset generation pipeline WareSynth which allows users to control the generation process and tailor the dataset according to contingent application. The ablations across architectural variants and comparison with strong prior baselines vindicate the efficacy of RackLay as an apt architecture for the novel problem of multi-layered layout estimation. We also show that fusing the top-view and front-view enables 3D reasoning applications such as metric free space estimation for the considered rack.
 
@@ -56,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'RackLay Pipeline'
   focal_point: ""
   preview_only: false
 
@@ -82,5 +87,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
+## Architecture
+{{< figure src="double_decoder.png" id="architecture" >}}.
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
