@@ -9,6 +9,7 @@ authors:
 - Avinash Prabhu
 - Anurag Sahu
 - Tanvi Karandikar
+- Puru Gupta
 - Ravi Kiran Sarvadevabhatla
 - Madhava Krishna
 - 
@@ -88,5 +89,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 ## Architecture
-{{< figure src="double_decoder.png" id="architecture" >}}.
-
+{{< figure src="double_decoder.png" id="architecture" >}}
