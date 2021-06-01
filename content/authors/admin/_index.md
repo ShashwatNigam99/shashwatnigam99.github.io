@@ -66,9 +66,11 @@ email: "mehershashwat@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a CS graduate from <a href="https://www.iiit.ac.in/" target="_blank" >International Institute of Information Technology, Hyderabad (IIIT-H)</a>. 
+I am a recent CS graduate from <a href="https://www.iiit.ac.in/" target="_blank" >International Institute of Information Technology, Hyderabad (IIIT-H)</a>  
 
-I have been working as a research student at the <a href="https://robotics.iiit.ac.in/" target="_blank" >Robotics Research Center (RRC, IIIT Hyderabad)</a> under <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank" >Dr. Madhav Krishna</a> in collaboration with <a href="https://cvit.iiit.ac.in/" target="_blank" > Center for Visual Information Technology (CVIT, IIIT Hyderabad)</a>, advised by <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ" target="_blank">Dr. Ravi Kiran Sarvadevabhatla</a>.
+I have been pursuing my honors research under <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank" >Dr. Madhav Krishna</a> and <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ" target="_blank">Dr. Ravi Kiran Sarvadevabhatla</a> at the <a href="https://robotics.iiit.ac.in/" target="_blank" >Robotics Research Center (RRC, IIIT Hyderabad)</a> in collaboration with <a href="https://cvit.iiit.ac.in/" target="_blank" > Center for Visual Information Technology (CVIT, IIIT Hyderabad)</a>. My work has mainly focused on Monocular 3D Reconstruction and Layout Estimation for performing Robotic Perception tasks, 3D Synthetic Data Generation and Simulation to Real Transfer.
+
+I have also been involved in a joint project with a diverse team from <a href="https://www.stanford.edu/" target="_blank" >Stanford</a>,<a target="https://www.polimi.it/en/">Polytechnic University of Milan</a> and <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST, SA</a> where we explored applications at the intersection of Geometric Deep Learning and Architecture. I had the pleasure of working with <a href="https://sites.google.com/view/tonoalberto" target="_blank"> Alberto Tono</a> and being advised by <a href="https://scholar.google.com/citations?user=iHW7n4kAAAAJ" target="_blank">Dr. Cecilia Bolognesi</a> and <a href="http://dmichels.de/" target="_blank"> Dr. Dominik Michels</a>
 
 Interested in machine learning, deep learning with a special focus on computer vision. Experience with finance and quantitative analysis. Currently exploring blockchain and cryptocurrencies!
 
