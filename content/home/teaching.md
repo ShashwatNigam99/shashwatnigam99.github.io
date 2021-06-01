@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Robotics Research Center Summer School, 2021
+    company: Dr. Madhav Krishna
+    company_url: 'https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en'
+    company_logo: ''
+    location: RRC, IIIT Hyderabad
+    date_start: '2021-05-01'
+    date_end: '2021-06-05'
+    description: Responsible for managing 250 students (Btech, MS, PhD backgrounds) and taking tutorials, quizzes, projects, assignment creation and evaluation.
+
   - title: CSE578 Computer Vision
     company: Dr. Anoop Naboodiri
     company_url: 'https://scholar.google.co.in/citations?user=mpI3sbYAAAAJ&hl=en'
