@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mehershashwat@gmail.com"
@@ -73,8 +73,9 @@ I have been pursuing my honors research under <a href="https://scholar.google.co
 
 I have also been involved in a research project with a diverse team from <a href="https://www.stanford.edu/" target="_blank" >Stanford</a>, <a href="https://www.polimi.it/en/" target="_blank"> Polytechnic University of Milan</a> and <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> where we are exploring applications at the intersection of Geometric Deep Learning and Architecture. I had the pleasure of working with <a href="https://sites.google.com/view/tonoalberto" target="_blank"> Alberto Tono</a> and being advised by <a href="https://scholar.google.com/citations?user=iHW7n4kAAAAJ" target="_blank">Dr. Cecilia Bolognesi</a> and <a href="http://dmichels.de/" target="_blank"> Dr. Dominik Michels</a>.
 
-Interested in machine learning, deep learning with a special focus on computer vision. Experience with finance and quantitative analysis. Currently exploring blockchain and cryptocurrencies!
+I interned at Goldman Sachs over the summer of 2020 where I was introduced to Finance and Quantitative analysis. Following this I was a trainee at <a href="https://www.oaktreeandlion.com/" target="_blank">Oaktree & Lion</a> where I studied and analyzed cryptocurrency derivatives trading strategies under <a href="https://www.linkedin.com/in/conradcarvalho/" target="_blank"> Conrad Carvalho</a>
+
+I have been exploring blockchain and cryptocurrencies in my free time. My team was runner's up at the <a href="https://worldblockchainhackathon.com/" target="_blank"> World Blockchain Hackathon</a>, for our idea <a href="https://github.com/adhithyaarun/skill-wallet" target="_blank"> SkillWallet</a>.
 
 Do hit me up if there is something we can discuss!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
