@@ -62,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'RackLay Pipeline'
+  caption: 'RackLay Architecture'
   focal_point: ""
   preview_only: false
 
@@ -88,5 +88,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
-## Architecture
-{{< figure src="double_decoder.png" id="architecture" >}}
+
+<!-- ## Architecture
+{{< figure src="pipeline.png" id="architecture" >}} -->
