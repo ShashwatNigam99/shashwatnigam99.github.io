@@ -25,7 +25,7 @@ experience:
   - title: CSE578 Computer Vision
     company: Dr. Anoop Naboodiri
     company_url: 'https://scholar.google.co.in/citations?user=mpI3sbYAAAAJ&hl=en'
-    company_logo: 'org-CV'
+    company_logo: ''
     location: IIIT Hyderabad
     date_start: '2021-01-01'
     date_end: '2021-05-01'
@@ -34,7 +34,7 @@ experience:
   - title: CSE578 Digital Image Processing
     company: Dr. Ravi Kiran Sarvadevabhatla
     company_url: 'https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en'
-    company_logo: org-DIP
+    company_logo: ''
     location: IIIT Hyderabad
     date_start: '2020-08-01'
     date_end: '2020-12-15'
