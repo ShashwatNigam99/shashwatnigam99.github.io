@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Intelligent Robots and Systems*
+publication_short: In *IROS*
 
 abstract: Given a monocular colour image of a warehouse rack, we aim to predict the bird's-eye view layout for each shelf in the rack, which we term as multi-layer layout prediction. To this end, we present RackLay, a deep neural network for real-time shelf layout estimation from a single image. Unlike previous layout estimation methods, which provide a single layout for the dominant ground plane alone, RackLay estimates the top-view and front-view layout for each shelf in the considered rack populated with objects. RackLay's architecture and its variants are versatile and estimate accurate layouts for diverse scenes characterized by varying number of visible shelves in an image, large range in shelf occupancy factor and varied background clutter. Given the extreme paucity of datasets in this space and the difficulty involved in acquiring real data from warehouses, we additionally release a flexible synthetic dataset generation pipeline WareSynth which allows users to control the generation process and tailor the dataset according to contingent application. The ablations across architectural variants and comparison with strong prior baselines vindicate the efficacy of RackLay as an apt architecture for the novel problem of multi-layered layout estimation. We also show that fusing the top-view and front-view enables 3D reasoning applications such as metric free space estimation for the considered rack.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present RackLay, a deep neural network for real-time monocular multi-layer layout estimation, for warehouse racks. We present applications like affordance estimation and 3D reconstruction.
 
 tags: []
 
@@ -48,7 +48,7 @@ url_pdf: 'https://arxiv.org/abs/2103.09174'
 url_code: 'https://github.com/Avinash2468/RackLay'
 url_dataset: 'https://anuragsahu.github.io/WareSynth/'
 url_poster: ''
-url_project: 'https://avinash2468.github.io/RackLay/'
+url_projectzz: 'https://avinash2468.github.io/RackLay/'
 url_slides: ''
 url_source: ''
 url_video: 'https://youtu.be/1hdl3W-MlXo'
