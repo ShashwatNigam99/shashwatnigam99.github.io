@@ -16,7 +16,7 @@ authors:
 author_notes: []
 
 date: "2021-04-26T00:00:00Z"
-doi: ""
+doi: "10.5194/isprs-archives-XLIII-B2-2021-337-2021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences((ISPRS Archives), 2021*
@@ -52,13 +52,13 @@ url_dataset: 'https://drive.google.com/drive/folders/1_D9nuNd9VXjzdqMoKIqrET7yiq
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/337/2021/isprs-archives-XLIII-B2-2021-337-2021.html'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Synthetic Data Generation Pipeline outputs'
+  caption: 'Synthetic Data Generation Pipeline Annotated Outputs'
   focal_point: ""
   preview_only: false
 
