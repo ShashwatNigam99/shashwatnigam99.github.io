@@ -52,7 +52,7 @@ url_dataset: 'https://drive.google.com/drive/folders/1_D9nuNd9VXjzdqMoKIqrET7yiq
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/337/2021/isprs-archives-XLIII-B2-2021-337-2021.html'
+url_source: ''
 url_video: ''
 
 # Featured image
