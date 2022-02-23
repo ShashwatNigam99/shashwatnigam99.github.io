@@ -46,7 +46,7 @@ links:
 - name: Project Page
   url: https://cdinstitute.github.io/Building-Dataset-Generator/
 
-url_pdf: 'https://arxiv.org/pdf/2104.12564v1.pdf'
+url_pdf: 'https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/337/2021/'
 url_code: 'https://github.com/CDInstitute/Building-Dataset-Generator'
 url_dataset: 'https://drive.google.com/drive/folders/1_D9nuNd9VXjzdqMoKIqrET7yiq21uZv6'
 url_poster: ''

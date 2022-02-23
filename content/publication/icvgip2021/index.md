@@ -1,5 +1,5 @@
 ---
-title: "RackLay: Multi-Layer Layout Estimation for Warehouse Racks"
+title: "Monocular Multi-Layer Layout Estimation for Warehouse Racks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,7 +12,7 @@ authors:
 - Puru Gupta
 - Ravi Kiran Sarvadevabhatla
 - Madhava Krishna
-- 
+
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
@@ -32,8 +32,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Intelligent Robots and Systems, 2021*
-publication_short: In *IROS,2021*
+publication: In *Indian Conference on Computer Vision, Graphics and Image Processing, 2021*
+publication_short: In *ICVGIP, 2021*
 
 abstract: Given a monocular colour image of a warehouse rack, we aim to predict the bird's-eye view layout for each shelf in the rack, which we term as multi-layer layout prediction. To this end, we present RackLay, a deep neural network for real-time shelf layout estimation from a single image. Unlike previous layout estimation methods, which provide a single layout for the dominant ground plane alone, RackLay estimates the top-view and front-view layout for each shelf in the considered rack populated with objects. RackLay's architecture and its variants are versatile and estimate accurate layouts for diverse scenes characterized by varying number of visible shelves in an image, large range in shelf occupancy factor and varied background clutter. Given the extreme paucity of datasets in this space and the difficulty involved in acquiring real data from warehouses, we additionally release a flexible synthetic dataset generation pipeline WareSynth which allows users to control the generation process and tailor the dataset according to contingent application. The ablations across architectural variants and comparison with strong prior baselines vindicate the efficacy of RackLay as an apt architecture for the novel problem of multi-layered layout estimation. We also show that fusing the top-view and front-view enables 3D reasoning applications such as metric free space estimation for the considered rack.
 
@@ -48,7 +48,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Project Page
-  url: https://avinash2468.github.io/RackLay/
+  url: https://github.com/Avinash2468/Layout_Estimation
 
 # url_project: 'https://avinash2468.github.io/RackLay/'
 url_pdf: 'https://arxiv.org/abs/2103.09174'
