@@ -1,5 +1,5 @@
 ---
-title: "Synthetic 3D Data Generation Pipeline for Geometric Deep Learning in Architecture"
+title: "Limitations and Review of Geometric Deep Learning Algorithms for Monocular 3D Reconstruction in Architecture"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
