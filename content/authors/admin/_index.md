@@ -6,10 +6,12 @@ title: Meher Shashwat Nigam
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Researcher, Computer Vision and Robotics  
+role: Graduate Teaching Assistant at Georgia Tech
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Georgia Institute of Technology
+  url: https://www.gatech.edu/
 - name: IIIT Hyderabad
   url: https://www.iiit.ac.in/
 
@@ -18,6 +20,7 @@ bio: My research interests include Computer Vision, Quantitative Finance and Blo
 
 # Interests to show in About widget
 interests:
+- Machine Learning
 - Computer Vision
 - Robotic Perception
 - Quantitative Finance
@@ -30,7 +33,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.Tech (Honors) in Computer Science and Engineering
+  - course: Master's in Computer Science, Specialization in Machine Learning
+    institution: Georgia Institute of Technology, Atlanta
+    year: 2024
+  - course: Bachelor's (Honors) in Computer Science and Engineering
     institution: International Institute of Information Technology, Hyderabad (IIIT-H)
     year: 2021
 
@@ -68,13 +74,13 @@ email: "mehershashwat@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a recent CS graduate from <a href="https://www.iiit.ac.in/" target="_blank" >International Institute of Information Technology, Hyderabad (IIIT-H)</a>. I will be joining Goldman Sachs as an analyst in July 2021, in the Global Markets division.
+I am a Master's in Computer Science student at Georgia Tech, specializing in Machine Learning. Currently, I am a teaching assistant for <a href="https://dellaert.github.io/22F-3630/" target="_blank">CS3630: Introduction to Robotics and Perception</a> under <a href="https://dellaert.github.io/" target="_blank">Dr. Frank Dellaert</a> . Prior to this, I worked as an quant strat in the Systematic Trading Strategies Team, Global Markets Division at Goldman Sachs, Bangalore.
 
-I have been pursuing my honors research under <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank" >Dr. Madhav Krishna</a> and <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ" target="_blank">Dr. Ravi Kiran Sarvadevabhatla</a> at the <a href="https://robotics.iiit.ac.in/" target="_blank" >Robotics Research Center (RRC, IIIT Hyderabad)</a> in collaboration with <a href="https://cvit.iiit.ac.in/" target="_blank" > Center for Visual Information Technology (CVIT, IIIT Hyderabad)</a>. My work has mainly focused on Monocular 3D Reconstruction and Layout Estimation for performing Robotic Perception tasks, 3D Synthetic Data Generation and Simulation to Real Transfer.
+I pursued my honors research under <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ" target="_blank" >Dr. Madhav Krishna</a> and <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ" target="_blank">Dr. Ravi Kiran Sarvadevabhatla</a> at the <a href="https://robotics.iiit.ac.in/" target="_blank" >Robotics Research Center (RRC, IIIT Hyderabad)</a> in collaboration with <a href="https://cvit.iiit.ac.in/" target="_blank" > Center for Visual Information Technology (CVIT, IIIT Hyderabad)</a>. My work mainly focused on Monocular 3D Reconstruction and Layout Estimation for performing Robotic Perception tasks, 3D Synthetic Data Generation and Simulation to Real Transfer.
 
-I have also been involved in a research project with a diverse team from <a href="https://www.stanford.edu/" target="_blank" >Stanford</a>, <a href="https://www.polimi.it/en/" target="_blank"> Polytechnic University of Milan</a> and <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> where we are exploring applications at the intersection of Geometric Deep Learning and Architecture. I had the pleasure of working with <a href="https://sites.google.com/view/tonoalberto" target="_blank"> Alberto Tono</a> and being advised by <a href="https://scholar.google.com/citations?user=iHW7n4kAAAAJ" target="_blank">Dr. Cecilia Bolognesi</a> and <a href="http://dmichels.de/" target="_blank"> Dr. Dominik Michels</a>.
+I was also involved in a research project with a diverse team from <a href="https://www.stanford.edu/" target="_blank" >Stanford</a>, <a href="https://www.polimi.it/en/" target="_blank"> Polytechnic University of Milan</a> and <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> where we explored applications at the intersection of Geometric Deep Learning and Architecture. I had the pleasure of working with <a href="https://sites.google.com/view/tonoalberto" target="_blank"> Alberto Tono</a> and being advised by <a href="https://scholar.google.com/citations?user=iHW7n4kAAAAJ" target="_blank">Dr. Cecilia Bolognesi</a>.
 
-I interned at Goldman Sachs over the summer of 2020 where I was introduced to Finance and Quantitative analysis. Following this, I was a trainee at <a href="https://www.oaktreeandlion.com/" target="_blank">Oaktree & Lion</a> where I studied and analyzed cryptocurrency derivatives trading strategies under <a href="https://www.linkedin.com/in/conradcarvalho/" target="_blank"> Conrad Carvalho</a>.
+I interned at Goldman Sachs over the summer of 2020 where I was introduced to Finance and Quantitative Trading. Following this, I was a trainee at <a href="https://www.oaktreeandlion.com/" target="_blank">Oaktree & Lion</a> where I studied and analyzed cryptocurrency derivatives trading strategies under <a href="https://www.linkedin.com/in/conradcarvalho/" target="_blank"> Conrad Carvalho</a>.
 
 I have been exploring blockchain and cryptocurrencies in my free time. My team was runner's up at the <a href="https://worldblockchainhackathon.com/" target="_blank"> World Blockchain Hackathon</a>, for our idea <a href="https://github.com/adhithyaarun/skill-wallet" target="_blank"> SkillWallet</a>.
 

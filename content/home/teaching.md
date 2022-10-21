@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant - CS3630 Introduction to Robotics and Perception 
+    company: Dr. Frank Dellaert
+    company_url: 'https://dellaert.github.io/'
+    company_logo: ''
+    location: Georgia Institute of Technology
+    date_start: '2022-08-15'
+    date_end: '2022-12-10'
+    description: Responsible for managing 400 undergrad students in a team of 10. Conduct weekly office hours to assist students with course material. Helping with project preparation and grading of assignments and exams.
+
   - title: Tutor - Robotics Research Center (RRC) Summer School, 2021
     company: Dr. Madhav Krishna
     company_url: 'https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en'
